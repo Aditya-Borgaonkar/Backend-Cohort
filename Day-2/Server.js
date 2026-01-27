@@ -11,5 +11,4 @@ app.get('/about', (req, res) => {
 })
 
 
-app.get('/')
 app.listen(3000)/// server start karana
